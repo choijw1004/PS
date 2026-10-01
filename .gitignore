@@ -1,0 +1,16 @@
+# IDE settings
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Java and Gradle build output
+*.class
+.gradle/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
